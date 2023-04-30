@@ -1,0 +1,23 @@
+{
+  "posts": [
+    {
+      "title": "Post1",
+      "body": "Post1",
+      "id": 1
+    },
+    {
+      "title": "Post1",
+      "body": "Post1",
+      "id": 2
+    },
+    {
+      "title": "dsfsdf",
+      "body": "dsfsdf",
+      "id": 5
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
